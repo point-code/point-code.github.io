@@ -95,9 +95,3 @@ a{
     border-width: 3px;
     width:40%
 }
-/****************MEDIA*TAGS*************/
-@media (max-width: 400px){
-    .headlinetext{
-        font-size:60px;
-    }
-}
